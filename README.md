@@ -1,4 +1,4 @@
 # conditional-network-objc
 
-Based on Advanced NSOperation WWDC 2015
+Based on Advanced NSOperations WWDC 2015
 .. but in objc
